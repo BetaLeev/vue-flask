@@ -17,19 +17,19 @@ UI部分使用了Bootstrap Vue
 
 ##项目截图
 ####首页展示
-![首页](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/1.png)
+![首页](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/1.png)
 
 ####修改内容
-![修改](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/2.png)
+![修改](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/2.png)
 
 ####添加内容
-![添加](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/3.png)
+![添加](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/3.png)
 
 ####浏览器对象
-![对象](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/4.png)
+![对象](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/4.png)
 
 ####折叠演示
-![折叠](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/5.png)
+![折叠](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/5.png)
 
 ####内容介绍
 ![对象](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/6.png)
