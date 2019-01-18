@@ -32,9 +32,9 @@ UI部分使用了Bootstrap Vue
 ![折叠](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/5.png)
 
 ####内容介绍
-![对象](https://github.com/BetaLeev/readme-project-gif/vue-flask-img/6.png)
+![对象](https://github.com/BetaLeev/readme-project-gif/blob/master/vue-flask-img/6.png)
 
 
 
 #####有问题，联系我
-![联系](https://github.com/BetaLeev/readme-project-gif/contace.jpg)
+![联系](https://github.com/BetaLeev/readme-project-gif/blob/master/contact.jpg)
